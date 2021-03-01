@@ -323,7 +323,7 @@ valine:
   notify: false
   verify: false
   visitor: false
-  avatar: 'mm' # Gravatar style : mm/identicon/monsterid/wavatar/retro/hide
+  avatar: 'wavatar' # Gravatar style : mm/identicon/monsterid/wavatar/retro/hide
   pageSize: 10
   placeholder: '快来写下你的评论吧~~' # Comment Box placeholder
   background: /medias/comment_bg.png

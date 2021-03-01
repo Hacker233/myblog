@@ -320,9 +320,9 @@ valine:
   enable: true
   appId: wloaTQFq5RyJa9LVJ7i5r6st-gzGzoHsz
   appKey: AldqWNlGHvuaPctLfOqHgdxj
-  notify: true
-  verify: true
-  visitor: true
+  notify: false
+  verify: false
+  visitor: false
   avatar: 'mm' # Gravatar style : mm/identicon/monsterid/wavatar/retro/hide
   pageSize: 10
   placeholder: '快来写下你的评论吧~~' # Comment Box placeholder

@@ -1,7 +1,7 @@
 ---
 title: Vue2.x生命周期详解
 author: 小猪课堂
-img: /source/images/001.jpg
+img: /medias/images/001.png
 top: true
 cover: true
 toc: true
